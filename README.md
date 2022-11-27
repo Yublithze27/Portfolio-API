@@ -1,5 +1,5 @@
-# ProjetoApiJavascript
+# Portfolio-API
 
 Projeto Final API Rest correspondente ao curso do JavaScript TOTTI.
 
-Para ver o projeto: https://yublithze27.github.io/ProjetoApiJavascript/
+Para ver o projeto: https://yublithze27.github.io/Portfolio-API/
